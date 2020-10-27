@@ -1,0 +1,23 @@
+body{
+    width: 70%;
+    margin: 0 auto;
+}
+.container{
+ height: 100px;
+ width: 100%;
+line-height: 100px;
+
+}
+.container a{
+    color: black;
+    margin-right: 50px;
+    
+}
+.container a:hover{
+    color: cornflowerblue;
+}
+.banner{
+    height: 550px;
+    background: red;
+    border-radius: 2%;
+}
